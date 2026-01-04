@@ -1,0 +1,7 @@
+{
+  "name": "SkyCast Weather",
+  "description": "A high-performance weather dashboard providing real-time meteorological data, air quality indices, and AI-powered weather insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
